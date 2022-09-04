@@ -23,6 +23,7 @@
   + 게시글 수정
   + 게시글 삭제
   + 파일 첨부 및 다운로드
+  + REST API 문서화(http://localhost:8080/swagger-ui/index.html)
   + REST API
   
     |기능|REST|요청 방식|
@@ -40,6 +41,7 @@
   + ***RESTful 게시판 구현***
   + PUT, DELETE 요청 방식을 사용하기 위해 HiddenHttpMethodFilter 등록(HTML에서는 PUT, DELETE 요청 방식을 지원하지 않기 때문)
   + ***REST API 개발***
+  + Swagger 이용한 REST API 문서화
   
 + 참고 자료
   + 김인우. (2019). 스프링 부트 시작하기. 프로그래밍인사이트
